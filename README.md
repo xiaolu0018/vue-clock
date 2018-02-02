@@ -1,2 +1,2 @@
 # vue-clock
-vue组件练习，clock,prop传参数
+vue组件练习-数字时钟，clock,prop传参数
