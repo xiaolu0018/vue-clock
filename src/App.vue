@@ -20,7 +20,6 @@
         props:['mytime','mydate'],
         computed:{
             newtime:function(){
-            	console.log(this.mytime)
                 return this.mytime
             },
             newdate:function(){
